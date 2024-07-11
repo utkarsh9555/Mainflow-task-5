@@ -1,0 +1,20 @@
+.display {
+  margin-bottom: 20px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #fff;
+  font-size: 24px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+
+.input {
+  height: 40px;
+}
+
+.result {
+  height: 30px;
+  font-weight: bold;
+}
